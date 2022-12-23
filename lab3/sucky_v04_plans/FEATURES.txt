@@ -1,0 +1,33 @@
+==================================
+Plans
+ * Add begin_plan and continue_plan
+ * Added super secret path planning module
+ * Added ability for world model to remember squares with gold, dirt, and walls
+ * Use case:  single gold, Sucky knows about gold and walls.  Plan to pick up the gold
+    then return to [1,1] then unload then stop
+
+==================================
+
+Macro Actions
+ * Add multiple actions and move to square
+ * Add MacroActionAgent 
+   * Key feature is just maintaining next_actions attribute
+   * Use case is using next_actions to implement move_to_adjacent_square
+     in context where agent knows about walls 
+ * Take-aways
+    *  Action policy rules are cleaner. 
+    *  Works better than sense dirt agent, but really this is just 
+        due to being told about the walls
+    * Teaser -- if they haven't done it already, agent would benefit 
+        from preferring to move into squares it hasn't seen before
+
+
+After world model refactor
+  * Added WorldModelAgent and agentworldmodel;  policy is the same as SenseDirtAgent,
+     but all interaction with world model happens through interface
+
+
+Starting point for lab 1
+  *  Gold is available but turned off in config file
+  *  Command processing is available (command widget and send_user_command method)
+  *  Agents shipped:  NoSenseAgent and SenseDirtAgent (both in reactiveagent.py)

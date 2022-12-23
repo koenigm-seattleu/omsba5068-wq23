@@ -1,0 +1,108 @@
+move_forward,"sucky, move 3 spaces forward"
+move_forward,go forward 4 squares
+move_forward,go 2 spaces forward
+move_forward,move 3 spaces forward
+move_forward,"sucky, move yourself 4 spaces forward"
+move_forward,move forward 3 spaces
+move_forward,go 3 spaces forward
+move_backward,"sucky, move 3 spaces backward"
+move_backward,go backward 4 squares
+move_backward,go 2 spaces backward
+move_backward,move 3 spaces backward
+move_backward,"sucky, move yourself 4 spaces backward"
+move_backward,move backward 3 spaces
+move_backward,go 3 spaces backward
+turn_left,"sucky, turn left"
+turn_left,turn left please
+turn_left,"sucky, rotate left"
+turn_left,"sucky, to the left"
+turn_left,turn to the left
+turn_left,rotate left please sucky
+turn_right,"sucky, turn right"
+turn_right,turn right please
+turn_right,"sucky, rotate right"
+turn_right,"sucky, to the right"
+turn_right,turn to the right
+turn_right,rotate right please sucky
+turn_around,turn around
+turn_around,turn backwards sucky
+turn_around,rotate backwards
+suck_dirt,suck some dirt sucky
+suck_dirt,"suck up the dirt at (2,3)"
+suck_dirt,"clean up square (2,4) please"
+suck_dirt,"clean (1,4)"
+suck_dirt,"suck dirt, sucky"
+suck_dirt,"i want you to suck the dirt at (2,7)"
+suck_dirt,"go to (6,2) and suck up the dirt"
+suck_dirt,"suck it"
+go_to,"sucky, move to (3,4)"
+go_to,"go to (7,2)"
+go_to,"get over to (9,3) sucky"
+go_to,"travel to (2,3)"
+go_to,"sucky, i want you to move to (6,7)"
+go_to,"go over to (3,3), sucky"
+go_to,"travel over to (2,3)"
+go_to,"to (9,9) please, sucky"
+go_to,"i'd like you to move to (1,1)"
+go_to,"sucky, please report to (7,2)"
+go_to,"go to (2,3)"
+go_to,"move to (4,5) sucky"
+go_home,"Sucky, go home"
+go_home,"Go home now"
+go_home,"go home, sucky"
+go_home,"home"
+go_home,"get home"
+go_home,"return home"
+go_home,"return to base"
+go_home,"sucky, go home"
+go_home,"go home, sucky"
+go_home,"go back to base"
+get_gold,"sucky, bring me the gold at (1,2)"
+get_gold,"get me the gold at (2,3)"
+get_gold,"fetch me the gold at square (9,9)"
+get_gold,"go to (1,3) and get me the gold there"
+get_gold,"sucky, i want the gold at (9,2)"
+get_gold,"i want the gold at (3,7)"
+get_gold,"bring me the gold at (2,6)"
+get_gold,"go get the gold at (7,9)"
+get_gold,"yo sucky, some gold at (1,1)!"
+get_gold,"sucky, bring me some"
+get_gold,"get me some gold"
+get_gold,"fetch me some gold"
+get_gold,"sucky, i want some gold"
+get_gold,"bring me some gold"
+get_gold,"go get some gold"
+get_gold,"yo sucky, some gold"
+find_gold,"sucy, locate some gold for me"
+find_gold,"hey, find some gold"
+find_gold,"find me some gold"
+find_gold,"find some gold for me"
+find_gold,where is some gold
+find_gold,is there gold somewhere
+find_gold,find some gold for me
+find_gold,do you know of any gold anywhere?
+find_gold,"sucky, where be gold??"
+find_gold,"where is some gold, sucky?"
+find_dirt,"hey, find some dirt"
+find_dirt,"find me some dirt"
+find_dirt,where is some dirt
+find_dirt,is there dirt somewhere
+find_dirt,find some dirt for me
+find_dirt,do you know of any dirt anywhere?
+agent_info,"hey sucky, where are you?"
+agent_info,Sucky -- what is your position?
+agent_info,"Hey, what direction are you heading"
+agent_info,What is your location?
+agent_info,Do you know where you are?
+agent_info,"Sucky, where r you located?"
+agent_info,Where did you go?
+agent_info,Where are you?
+agent_info,"Sucky, what is your location?"
+agent_info,What location are you at?
+agent_info,What square are you in?
+agent_info,What is your heading?
+agent_info,Tell me what your location is
+agent_info,Tell me your location
+agent_info,Tell me your heading
+agent_info,Where are you?
+agent_info,"Sucky, where you be?"

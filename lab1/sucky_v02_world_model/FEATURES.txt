@@ -1,0 +1,11 @@
+World model
+
+After world model refactor
+  * Added WorldModelAgent and agentworldmodel;  policy is the same as SenseDirtAgent,
+     but all interaction with world model happens through interface
+
+
+Starting point for lab 1
+  *  Gold is available but turned off in config file
+  *  Command processing is available (command widget and send_user_command method)
+  *  Agents shipped:  NoSenseAgent and SenseDirtAgent (both in reactiveagent.py)
